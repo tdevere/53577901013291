@@ -21,6 +21,7 @@ namespace WpfApp1
             AppCenter.LogLevel = LogLevel.Verbose;
             AppCenter.Start("f83e4985-1ca5-4d95-801a-116db24446a6",
                   typeof(Analytics), typeof(Crashes));
+            //Debug
         }
 
     }
